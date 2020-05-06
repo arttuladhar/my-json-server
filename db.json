@@ -1,4 +1,21 @@
 {
+   "user": [
+      {
+         "id": 1,
+         "name": "Elvis Presley",
+         "email": "elvis.presley@aol.com"         
+      },
+      {
+         "id": 2,
+         "name": "Buddy Holly",
+         "email": "buddy.holly@aol.com"         
+      },
+      {
+         "id": 3,
+         "name": "Frank Sinatra",
+         "email": "frank.sinatra@aol.com"         
+      }
+   ],
    "todos":[
       {
          "userId":1,
